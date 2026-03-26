@@ -1,3 +1,10 @@
+https://mui.com/material-ui/react-drawer/
+
+https://mui.com/material-ui/getting-started/templates/
+
+https://ui.mantine.dev/category/navbars/
+
+
 <img src=".erb/img/erb-banner.svg" width="100%" />
 
 <br>
